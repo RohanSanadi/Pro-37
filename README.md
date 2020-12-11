@@ -1,1 +1,2 @@
-# Pro-37
+# INFINITE-RUNNER-GAME
+Game
